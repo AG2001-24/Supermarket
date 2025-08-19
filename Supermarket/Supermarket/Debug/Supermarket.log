@@ -1,0 +1,22 @@
+﻿  Supermarket.cpp
+c:\users\ahmed gomaa\downloads\supermarket\supermarket\supermarket\clsstring.h(43): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+c:\users\ahmed gomaa\downloads\supermarket\supermarket\supermarket\clsstring.h(48): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+c:\users\ahmed gomaa\downloads\supermarket\supermarket\supermarket\clsstring.h(60): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+c:\users\ahmed gomaa\downloads\supermarket\supermarket\supermarket\clsstring.h(91): warning C4018: '<': signed/unsigned mismatch
+c:\users\ahmed gomaa\downloads\supermarket\supermarket\supermarket\clsstring.h(118): warning C4018: '<': signed/unsigned mismatch
+c:\users\ahmed gomaa\downloads\supermarket\supermarket\supermarket\clsstring.h(144): warning C4018: '<': signed/unsigned mismatch
+c:\users\ahmed gomaa\downloads\supermarket\supermarket\supermarket\clsstring.h(158): warning C4018: '<': signed/unsigned mismatch
+c:\users\ahmed gomaa\downloads\supermarket\supermarket\supermarket\clsstring.h(177): warning C4018: '<': signed/unsigned mismatch
+c:\users\ahmed gomaa\downloads\supermarket\supermarket\supermarket\clsstring.h(197): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+c:\users\ahmed gomaa\downloads\supermarket\supermarket\supermarket\clsstring.h(202): warning C4018: '<': signed/unsigned mismatch
+c:\users\ahmed gomaa\downloads\supermarket\supermarket\supermarket\clsstring.h(224): warning C4018: '<': signed/unsigned mismatch
+c:\users\ahmed gomaa\downloads\supermarket\supermarket\supermarket\clsstring.h(245): warning C4018: '<': signed/unsigned mismatch
+c:\users\ahmed gomaa\downloads\supermarket\supermarket\supermarket\clsstring.h(266): warning C4018: '<': signed/unsigned mismatch
+c:\users\ahmed gomaa\downloads\supermarket\supermarket\supermarket\clsstring.h(303): warning C4018: '<': signed/unsigned mismatch
+c:\users\ahmed gomaa\downloads\supermarket\supermarket\supermarket\clsstring.h(328): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+c:\users\ahmed gomaa\downloads\supermarket\supermarket\supermarket\clsstring.h(357): warning C4018: '<': signed/unsigned mismatch
+c:\users\ahmed gomaa\downloads\supermarket\supermarket\supermarket\clsstring.h(376): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+c:\users\ahmed gomaa\downloads\supermarket\supermarket\supermarket\clsstring.h(501): warning C4018: '<': signed/unsigned mismatch
+c:\users\ahmed gomaa\downloads\supermarket\supermarket\supermarket\clssupplier.h(177): warning C4715: 'clsSupplier::SaveResult': not all control paths return a value
+  Supermarket.vcxproj -> C:\Users\Ahmed Gomaa\Downloads\Supermarket\Supermarket\Debug\Supermarket.exe
+  Supermarket.vcxproj -> C:\Users\Ahmed Gomaa\Downloads\Supermarket\Supermarket\Debug\Supermarket.pdb (Full PDB)
