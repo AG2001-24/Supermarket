@@ -17,6 +17,10 @@ c:\users\ahmed gomaa\downloads\supermarket\supermarket\supermarket\clsstring.h(3
 c:\users\ahmed gomaa\downloads\supermarket\supermarket\supermarket\clsstring.h(357): warning C4018: '<': signed/unsigned mismatch
 c:\users\ahmed gomaa\downloads\supermarket\supermarket\supermarket\clsstring.h(376): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
 c:\users\ahmed gomaa\downloads\supermarket\supermarket\supermarket\clsstring.h(501): warning C4018: '<': signed/unsigned mismatch
-c:\users\ahmed gomaa\downloads\supermarket\supermarket\supermarket\clssupplier.h(177): warning C4715: 'clsSupplier::SaveResult': not all control paths return a value
+c:\users\ahmed gomaa\downloads\supermarket\supermarket\supermarket\supermarket.cpp(420): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\ahmed gomaa\downloads\supermarket\supermarket\supermarket\supermarket.cpp(424): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\ahmed gomaa\downloads\supermarket\supermarket\supermarket\clssupplier.h(179): warning C4715: 'clsSupplier::SaveResult': not all control paths return a value
+c:\users\ahmed gomaa\downloads\supermarket\supermarket\supermarket\clscustomer.h(179): warning C4715: 'clsCustomer::SaveResult': not all control paths return a value
+c:\users\ahmed gomaa\downloads\supermarket\supermarket\supermarket\clsproduct.h(444): warning C4715: 'clsProduct::SaveResult': not all control paths return a value
   Supermarket.vcxproj -> C:\Users\Ahmed Gomaa\Downloads\Supermarket\Supermarket\Debug\Supermarket.exe
   Supermarket.vcxproj -> C:\Users\Ahmed Gomaa\Downloads\Supermarket\Supermarket\Debug\Supermarket.pdb (Full PDB)

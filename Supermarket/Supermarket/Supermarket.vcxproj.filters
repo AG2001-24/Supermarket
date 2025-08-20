@@ -19,6 +19,9 @@
     <Filter Include="Header Files\Core">
       <UniqueIdentifier>{92d62f70-b314-47c2-8e6e-527e3e1ca501}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\Derived">
+      <UniqueIdentifier>{7403ffde-94df-46d2-8ec4-3279584a6b68}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <Text Include="ReadMe.txt" />
@@ -49,6 +52,12 @@
       <Filter>Header Files\Core</Filter>
     </ClInclude>
     <ClInclude Include="clsSupplier.h">
+      <Filter>Header Files\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="clsProduct.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="clsCustomer.h">
       <Filter>Header Files\Core</Filter>
     </ClInclude>
   </ItemGroup>

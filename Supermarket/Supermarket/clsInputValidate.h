@@ -88,6 +88,7 @@ public:
 			cout << ErrorMessage << endl;
 			Number = ReadIntNumber();
 		}
+		return Number;
 	}
 	static int ReadIntNumberBetween(int From, int To, string ErrorMessage="Number is not within range, Enter again:\n")
 	{

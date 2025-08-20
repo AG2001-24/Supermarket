@@ -8,13 +8,14 @@
 #include <vector>
 using namespace std;
 
-const string FileNameSuppliers = "Suppliers.txt";
+string FileNameSuppliers = "Suppliers\\Suppliers.txt";
 
 class clsSupplier : public clsPerson
 {
 
+	
 	enum enMode { EmptyMode = 1, UpdateMode = 2, AddNewMode = 3 };
-	enMode _Mode;
+	 enMode _Mode;
 
 	bool _MarkForDelete = false;
 
@@ -163,6 +164,7 @@ public:
 
 			if (IsSupplierExist)
 			{
+				_Mode = enMode::UpdateMode;
 				return enSave::svAlreadyExists;
 			}
 			else
@@ -254,5 +256,6 @@ public:
 	{
 		return _GetSuppliersList();
 	}
+
 };
 

@@ -1,0 +1,2 @@
+P003#//#Milk 1L#//#Dairy#//#Juhayna Supplier#//#15.000000#//#18.000000#//#200#//#20
+P004#//#Cheese 500g#//#Dairy#//#Juhayna Supplier#//#40.000000#//#48.000000#//#60#//#5

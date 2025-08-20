@@ -145,10 +145,12 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="clsCustomer.h" />
     <ClInclude Include="clsDate.h" />
     <ClInclude Include="clsInputValidate.h" />
     <ClInclude Include="clsPeriod.h" />
     <ClInclude Include="clsPerson.h" />
+    <ClInclude Include="clsProduct.h" />
     <ClInclude Include="clsString.h" />
     <ClInclude Include="clsSupplier.h" />
     <ClInclude Include="clsUtil.h" />

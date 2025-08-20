@@ -1,0 +1,12 @@
+A001#//#Ahmed#//#Gomaa#//#01128264523#//#Giza
+A002#//#Ali#//#Ibrahim#//#0102020123#//#Giza
+A003#//#Mohamed#//#Shaban#//#0102020203#//#Fayoum
+A006#//#Al-Nile#//#Supplier#//#0102525236#//#Cairo
+A007#//#Juhayna#//#Supplier#//#010202032012#//#Cairo
+A008#//#Domty#//#Supplier#//#01025252456#//#Cairo
+A009#//#Uniever#//#Supplier#//#01020203125#//#Cairo
+A010#//#P&G#//#Supplier#//#0102565452#//#Giza
+A011#//#Pepsi#//#Supplier#//#0102525645#//#Giza
+A012#//#Nestle#//#Supplier#//#0102525645#//#Cairo
+A013#//#Barilla#//#Supplier#//#0102525645#//#Cairo
+A014#//#Lipton#//#Supplier#//#01025256489#//#Giza
